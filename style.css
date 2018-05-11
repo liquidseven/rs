@@ -1,0 +1,4 @@
+body { height: 297mm; width: 210mm; border-style: dashed; padding: 1in 1.25in; }
+header { background-color: #006600; color: #b3b3b3}
+#header-name { font-family: Merriweather; font-size: 36px; text-align: left; }
+#header-info { font-family: "Open Sans"; font-size: 24px; text-align: right;}
